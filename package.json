@@ -1,0 +1,29 @@
+{
+   "name":"twelephone",
+   "description":"Twelephone NPM Module",
+   "version":"0.0.1",
+   "homepage":"http://github.com/twelephone/npm",
+   "repository":"git://github.com/twelephone/npm.git",
+   "author":"Twelephone <hello@twelephone.com> (http://twelephone.com/)",
+   "main":"./index.js",
+   
+   "dependencies":{
+      
+   },
+   "devDependencies":{
+      "mocha":"*",
+      "should":"*"
+   },
+   "scripts":{
+      "test":"mocha"
+   },
+   "engines":{
+      "node":">= 0.4.0"
+   },
+   "licenses":[
+      {
+         "type":"TBD",
+         "url":"http://github.com/twelephone/twelephone/raw/master/LICENSE"
+      }
+   ]
+}
